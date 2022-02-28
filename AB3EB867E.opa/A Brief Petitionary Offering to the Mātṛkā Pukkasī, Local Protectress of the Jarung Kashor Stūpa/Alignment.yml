@@ -1,0 +1,19 @@
+segment_sources:
+  P3A3998BF:
+    type: origin_type
+    relation: translation
+    language: en
+  P1447B067:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1e8d40a374ea45328debbe0e013cd799:
+    P3A3998BF: d1c2c83a0e99462687ae93cb41fc0636
+    P1447B067: b9e858d875684524a5ff3fb2dd008a17
+  0da5d2ff6da346e6821843523b4e5e57:
+    P3A3998BF: 1ea651266af547b482e4790051155449
+    P1447B067: cca7dea2b81c4769a787ec1a21a409fa
+  8f64fbe890e14417a369102018f9242c:
+    P3A3998BF: d2786783ed214898b438d4e6109ded22
+    P1447B067: 8818d6f98b2d4600814d6603a440a378
